@@ -1,2 +1,2 @@
-model_checkpoint_path: "model.txt"
-all_model_checkpoint_paths: "model.txt"
+model_checkpoint_path: "model8x8"
+all_model_checkpoint_paths: "model8x8"

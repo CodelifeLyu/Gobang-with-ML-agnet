@@ -65,7 +65,6 @@ def evaluate_board():
     else:
         return 0
 
-# Define the minimax algorithm to select the best move for the AI player
 # Define the minimax algorithm with alpha-beta pruning to select the best move for the AI player
 def minimax(alpha, beta, depth, player):
     if depth == 0 or check_win(1) or check_win(-1):
