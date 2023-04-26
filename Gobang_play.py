@@ -133,4 +133,4 @@ def human_vs_ai(model_path="model.txt"):
         print("It's a draw!")
 
 if __name__ == "__main__":
-    human_vs_ai(model_path="model.txt")
+    human_vs_ai(model_path="model.new")

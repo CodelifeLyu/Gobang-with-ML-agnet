@@ -231,5 +231,6 @@ def train_agent(games=1000, mcts_simulations=100, model_path="model.txt", load_m
 
 
 if __name__ == "__main__":
-    train_agent(games=1000, mcts_simulations=500, model_path="model.txt", load_model_path="model.txt")
+    #train_agent(games=10, mcts_simulations=3000, model_path="model.new")
+    train_agent(games=1000, mcts_simulations=3000, model_path="model.new", load_model_path="model.new")
 

@@ -1,2 +1,2 @@
-model_checkpoint_path: "model8x8"
-all_model_checkpoint_paths: "model8x8"
+model_checkpoint_path: "model.new"
+all_model_checkpoint_paths: "model.new"
